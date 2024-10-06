@@ -70,6 +70,6 @@ BuyOne is a full-featured eCommerce website designed to facilitate the buying an
 
 
 ### Contact
-For any queries or contributions, feel free to reach out to:
+For any queries or contributions, feel free to reach out to me:
 - **Author**: Byas Yadav
 - **Email**: byasyadav371@example.com
